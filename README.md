@@ -14,12 +14,12 @@ Persona - IMC
 
 Proporcione el nombre:Arturo
 Proporcione la edad:54
-Proporcione el género (M/F):M
+Proporcione el genero (M/F):M
 Proporcione el peso (kg):84
 Proporcione la altura (m):1.80
 
-Persona: Arturo, Edad: 54, Género: M, Peso: 84.00 kg, Altura: 1.80 m
-Índice de Masa Corporal (IMC): 25.93
+Persona: Arturo, Edad: 54, Genero: M, Peso: 84.00 kg, Altura: 1.80 m
+Indice de Masa Corporal (IMC): 25.93
 Categoría IMC: Sobrepeso
 ```
 
