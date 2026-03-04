@@ -11,18 +11,18 @@ public class Principal {
         System.out.println();
 
         // Solicitar los datos en el siguiente orden:
-        // nombre, edad, género, peso y altura
+        // nombre, edad, genero, peso y altura
 
         // Crear un objeto Persona con los datos ingresados
 
-        // Línea en blanco
+        // Linea en blanco
         System.out.println();
 
         // Mostrar los datos de la persona
 
-        // Mostrar el índice de masa corporal (IMC)
+        // Mostrar el indice de masa corporal (IMC)
 
-        // Mostrar la categoría del IMC
+        // Mostrar la categoria del IMC
 
         entrada.close();
     }
